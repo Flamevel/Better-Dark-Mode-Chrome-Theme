@@ -1,0 +1,28 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Better Dark Mode Theme",
+  "description": "Minimalist Chrome theme that matches almost any dark mode website.",
+  "theme": {
+    "colors": {
+      "frame": [15, 15, 15],
+      "frame_inactive": [15, 15, 15],
+      "frame_incognito": [15, 15, 15],
+      "frame_incognito_inactive": [15, 15, 15],
+      "bookmark_text": [255, 255, 255],
+      "tab_background_text": [170, 170, 170],
+      "tab_background_text_inactive": [100, 100, 100],
+      "tab_background_text_incognito": [170, 170, 170],
+      "tab_background_text_incognito_inactive": [100, 100, 100],
+      "tab_text": [255, 255, 255],
+      "toolbar": [34, 34, 34],
+      "toolbar_button_icon": [255, 255, 255],
+      "omnibox_text": [255, 255, 255],
+      "omnibox_background": [15, 15, 15],
+      "ntp_background": [15, 15, 15],
+      "ntp_link": [62, 166, 255],
+      "ntp_text": [255, 255, 255],
+      "button_background": [15, 15, 15]
+    }
+  }
+}
