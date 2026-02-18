@@ -1,5 +1,5 @@
 {
-  "manifest_version": 2,
+  "manifest_version": 3,
   "version": "1.0",
   "name": "Better Dark Mode Theme",
   "description": "Minimalist Chrome theme that matches almost any dark mode website.",
@@ -26,3 +26,4 @@
     }
   }
 }
+
